@@ -8,3 +8,24 @@
     min-height: 1005px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width:1279px){
+    .lead{
+        margin:0 48px;
+        min-width:928px;
+        min-height: 580px;
+    }
+}
+@media screen and (max-width:1023px){
+    .lead{
+        margin:0;
+        min-width: 768px;
+        min-height: 862px;
+    }
+}
+@media screen and (max-width:767px){
+    .lead{
+        min-width: 320px;
+        min-height: 406px;
+    }
+}
