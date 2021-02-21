@@ -3,4 +3,5 @@
     flex-direction: column;
     justify-content: flex-end;
     max-height: 46px;
+    align-self: flex-end;
 }
