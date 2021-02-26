@@ -15,12 +15,12 @@
 @media screen and (max-width:1023px){
     .header{
         min-width: 720px;
-        margin:28px 24px 48px;
+        margin: 28px 24px 48px;
     }
 }
 @media screen and (max-width:767px){
     .header{
         min-width: 288px;
-        margin:16px 16px 48px;
+        margin: 16px 16px 48px;
     }
 }
